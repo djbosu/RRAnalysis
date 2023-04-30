@@ -11,10 +11,10 @@ Requirements:
 ## Developers
 
 [D. Blassingame - GIS Major Undergraduate @ The Ohio State University](https://www.osu.edu/search/?query=blassingame.5&view=people&expanded=true)
+![e4gx0mhbqcf3erdsfueg2qq1x-771986029](https://user-images.githubusercontent.com/123282069/235376980-e8d2416a-c072-4bba-a524-91b061cf00eb.png)
 
 [R. Brown - GIS Major Undergraduate @ The Ohio State University](https://www.osu.edu/search/?query=brown.7453&view=people&expanded=true)
-
-![e4gx0mhbqcf3erdsfueg2qq1x-771986029](https://user-images.githubusercontent.com/123282069/235376632-a693864a-bcaf-4628-8c46-39fabc5deba4.png)
+![e4gx0mhbqcf3erdsfueg2qq1x-771986029](https://user-images.githubusercontent.com/123282069/235376980-e8d2416a-c072-4bba-a524-91b061cf00eb.png)
 
 [Check out The Ohio State University's Department of Geography - GIS & Spatial Analysis](https://geography.osu.edu/undergrad/majors/gis)
 
