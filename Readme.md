@@ -9,8 +9,16 @@ Requirements:
     The provided Hazard Spill Simulation Tool package (zipped folder)
 
 ## Developers
-D. Blassingame - GIS Major Undergraduate | The Ohio State University
-R. Brown - GIS Major Undergraduate | The Ohio State University
+
+D. Blassingame - GIS Major Undergraduate @ The Ohio State University
+
+R. Brown - GIS Major Undergraduate @ The Ohio State University
+![e4gx0mhbqcf3erdsfueg2qq1x-771986029](https://user-images.githubusercontent.com/123282069/235376586-fa172eff-091e-40bb-9010-77efb8df5e21.png)
+
+![text if the image fails to load](auto-generated-path-to-file-when-you-upload-image "GO BUCKEYES")
+
+[logo]: auto-generated-path-to-file-when-you-upload-image "O-H-I-O"
+![error text][logo]
 
 ## Limitations
 
