@@ -1,16 +1,18 @@
-#Introduction
+# Freight Incident Analysis Tool (FIAT)
+
+## Introduction
 
 This documentation provides an overview of the Hazard Spill Simulation Tool, a custom ArcGIS Pro tool designed to simulate chemical spills. The tool reads a CSV file with specific columns and outputs a point layer with a buffer around each point, representing the potential area affected by a chemical spill.
-Requirements
+Requirements:
 
     ArcGIS Pro (latest version recommended)
     The provided Hazard Spill Simulation Tool package (zipped folder)
 
-##Developers
+## Developers
 D. Blassingame - GIS Major Undergraduate | The Ohio State University
 R. Brown - GIS Major Undergraduate | The Ohio State University
 
-##Limitations
+## Limitations
 
 Due to the complex nature of chemical spills and hazardous we have excluded the affected population by chemical and have left the manual buffer radius for the chemicals in (miles) units.
 
@@ -26,7 +28,7 @@ Developers are implementing a way to use Python RegEx as an ETL process to clean
         NARR2: (sometimes Narr1-6 or just narrative): Type of spill
         PERSONS_EVACUATED: Amount of local population
 
-##Installation
+## Installation
 
     Download the Hazard Spill Simulation Tool package (zipped folder) and unzip the contents to a desired location on your computer.
     Open ArcGIS Pro and create a new project.
@@ -34,7 +36,7 @@ Developers are implementing a way to use Python RegEx as an ETL process to clean
     Navigate to the unzipped folder containing the Hazard Spill Simulation Tool, and select the toolbox file to add it to the project.
     Add the provided data (CSV file) to the project folder.
 
-##Usage
+## Usage
 
     Open the Hazard Spill Simulation Tool from the Catalog pane.
     Fill out the parameters in the tool dialog:
@@ -47,11 +49,11 @@ Developers are implementing a way to use Python RegEx as an ETL process to clean
 
 The tool will create a point layer with a buffer based on the entered buffer radius, simulating a chemical spill. The output will be added to the ArcGIS Pro map.
 
-##Future Enhancements
+## Future Enhancements
 
 The next version of the Hazard Spill Simulation Tool will include pre-determined buffer radii and allow users to simulate chemical spills based on the selected hazardous material.
 
-##Troubleshooting
+## Troubleshooting
 
 If you encounter any issues while using the Hazard Spill Simulation Tool, refer to the following troubleshooting tips:
 
@@ -65,7 +67,7 @@ If you encounter any issues while using the Hazard Spill Simulation Tool, refer 
 
     If the tool does not produce the expected output, verify that the input parameters have been entered correctly and that the input data is properly formatted.
 
-##Support and Feedback
+## Support and Feedback
 
 If you need further assistance or would like to provide feedback about the Hazard Spill Simulation Tool, please contact the developer at https://github.com/djbosu/RRAnalysis
 ##Disclaimer
