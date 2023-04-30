@@ -10,15 +10,13 @@ Requirements:
 
 ## Developers
 
-D. Blassingame - GIS Major Undergraduate @ The Ohio State University
+[D. Blassingame - GIS Major Undergraduate @ The Ohio State University](https://www.osu.edu/search/?query=blassingame.5&view=people&expanded=true)
 
-R. Brown - GIS Major Undergraduate @ The Ohio State University
-![e4gx0mhbqcf3erdsfueg2qq1x-771986029](https://user-images.githubusercontent.com/123282069/235376586-fa172eff-091e-40bb-9010-77efb8df5e21.png)
+[R. Brown - GIS Major Undergraduate @ The Ohio State University](https://www.osu.edu/search/?query=brown.7453&view=people&expanded=true)
 
-![text if the image fails to load](auto-generated-path-to-file-when-you-upload-image "GO BUCKEYES")
+![e4gx0mhbqcf3erdsfueg2qq1x-771986029](https://user-images.githubusercontent.com/123282069/235376632-a693864a-bcaf-4628-8c46-39fabc5deba4.png)
 
-[logo]: auto-generated-path-to-file-when-you-upload-image "O-H-I-O"
-![error text][logo]
+[Check out The Ohio State University's Department of Geography - GIS & Spatial Analysis](https://geography.osu.edu/undergrad/majors/gis)
 
 ## Limitations
 
