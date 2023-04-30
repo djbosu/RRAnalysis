@@ -18,7 +18,7 @@ Due to the complex nature of chemical spills and hazardous we have excluded the 
 
 Developers are implementing a way to use Python RegEx as an ETL process to cleanse data, this feature will be released on future versions located at: https://github.com/djbosu/RRAnalysis
 
-##DATA Preparation
+## DATA Preparation
 
     To use your own data with the Hazard Spill Simulation Tool, ensure your CSV file includes the following columns, casing and spelling are critical for a successful run of the tool. Proper column headers are capitalized here.
 
