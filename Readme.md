@@ -70,6 +70,7 @@ If you encounter any issues while using the Hazard Spill Simulation Tool, refer 
 ## Support and Feedback
 
 If you need further assistance or would like to provide feedback about the Hazard Spill Simulation Tool, please contact the developer at https://github.com/djbosu/RRAnalysis
-##Disclaimer
+
+## Disclaimer
 
 The Hazard Spill Simulation Tool is provided "as is" without any warranty, express or implied. The developer is not responsible for any direct, indirect, or consequential damages resulting from the use of the tool. Users are responsible for ensuring the accuracy and validity of their data and are encouraged to verify the results obtained from the tool using independent sources. The tool is intended for educational and demonstration purposes only and should not be used for making real-life decisions related to hazardous materials or emergency response.
