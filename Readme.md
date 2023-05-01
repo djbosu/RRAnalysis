@@ -6,6 +6,7 @@ This documentation provides an overview of the Hazard Spill Simulation Tool, a c
 Requirements:
 
     ArcGIS Pro (latest version recommended)
+    Developed on 3.11.2
     The provided Hazard Spill Simulation Tool package (zipped folder)
 
 ## Developers
@@ -32,7 +33,7 @@ Developers are implementing a way to use Python RegEx as an ETL process to clean
         LATITUDE: The latitude coordinates of each point.
         CARSHZD: A column indicating whether a spill is hazardous (1) or non-hazardous (0).
         NARR2: (sometimes Narr1-6 or just narrative): Type of spill
-        PERSONS_EVACUATED: Amount of local population
+        EVACUATED: Amount of local population
 
 ## Installation
 
